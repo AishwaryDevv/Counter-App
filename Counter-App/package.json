@@ -2,7 +2,7 @@
 "name": "counter-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AishwaryDevv.github.io/Counter-App",
+  "homepage": "https://aishwaryDevv.github.io/Counter-App",
   "type": "module",
   "scripts": {
     "dev": "vite",
